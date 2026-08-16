@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "895256964025",
+    "project_id": "autumn-chat-app-89fdf",
+    "storage_bucket": "autumn-chat-app-89fdf.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:895256964025:android:a029c0cf1a3c9e716ca468",
+        "android_client_info": {
+          "package_name": "com.example.lovely_chat_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAb02XZ0EjxvZA-9hSPZcQc8qK-HsW7ZTM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
